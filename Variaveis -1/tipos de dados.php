@@ -27,4 +27,5 @@
     // nulo
     $nulo = NULL;
         // $nulo = NULL != $nulo = ""
+
 ?>
