@@ -6,5 +6,5 @@
    $nome = (int)$_GET["var"];
    var_dump($nome);
     
-
+echo "pull request";
 ?>
