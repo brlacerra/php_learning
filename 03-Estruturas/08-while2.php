@@ -9,5 +9,5 @@ do{
 }while ($total>100);
 
 echo $total;
-
+echo "<br>";
 ?>
