@@ -62,7 +62,12 @@
      $doc = new CPF();
      $doc->setnumero("15260914619");
      echo $doc->getNumero()."<br>";
-     var_dump ($doc->validar($doc->getNumero()));
+     if($doc->validar($doc->getNumero())==true){
+        echo "CPF válido";  
+     }
+     else{
+        echo "CPF inválido";
+     }
 
 
     
