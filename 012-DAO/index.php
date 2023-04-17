@@ -16,9 +16,27 @@ require_once("config.php");
 // echo json_encode($list);
 
 //!Sistema de login com nome e senha!
-$login = new Usuario();
-$login->login("Bruno MySql Lacerr", "123456789ASDFG");
-echo $login;
+// $login = new Usuario();
+// $login->login("Bruno MySql Lacerra", "123456789ASDFG");
+// echo $login;
+
+//!INSERT de um novo usuário!
+// $aluno = new Usuario("Professor", ":cpf:professor");
+// $aluno->insert();
+// echo $aluno;
+
+//!UPDATE um usuário existente!
+// $usuario = new Usuario();
+// $usuario->LoadByID(8);
+// $usuario->update("professor", "professor");
+// echo $usuario;
+
+// !DELETE de um usuário existente!
+$delete = new Usuario();
+$delete->LoadByID(13);
+echo $delete;
+$delete->delete();
+
 
 //!Carrega linhas por código direto!
 // $sql = new Sql();
