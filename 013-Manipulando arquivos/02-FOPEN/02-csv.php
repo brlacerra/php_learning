@@ -13,7 +13,7 @@ foreach ($usuarios[0] as $key => $value) {
 }
 
 $file = fopen("usuarios.csv", "w+");
-fwrite($file, implode("  |   ",$headers) . "\r\n");
+fwrite($file, implode(",",$headers) . "\r\n");
 
 foreach($usuarios as $row){
     $data = array();
@@ -22,7 +22,7 @@ foreach($usuarios as $row){
         array_push($data, $value);
     }//end foreach de coluna
 
-    fwrite($file, implode("  |  ", $data) . "\r\n");
+    fwrite($file, implode(",", $data) . "\r\n");
 
 }//End foreach de linha
 
