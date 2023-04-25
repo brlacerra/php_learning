@@ -1,0 +1,109 @@
+PATH INFO
+dirname: images
+basename: 130cm.png
+extension: png
+filename: 130cm
+size:38784
+data de modificação: Wednesday, 12-Apr-23 14:04:23 CEST
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/130cm.png
+
+PATH INFO
+dirname: images
+basename: Logo1.jpg
+extension: jpg
+filename: Logo1
+size:14088
+data de modificação: Friday, 24-Mar-23 20:24:38 CET
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/Logo1.jpg
+
+PATH INFO
+dirname: images
+basename: Logo2.jpg
+extension: jpg
+filename: Logo2
+size:13962
+data de modificação: Friday, 24-Mar-23 21:21:17 CET
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/Logo2.jpg
+
+PATH INFO
+dirname: images
+basename: html5.png
+extension: png
+filename: html5
+size:32796
+data de modificação: Monday, 17-Apr-23 15:57:37 CEST
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/html5.png
+
+PATH INFO
+dirname: images
+basename: mysql.png
+extension: png
+filename: mysql
+size:201238
+data de modificação: Monday, 17-Apr-23 15:57:40 CEST
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/mysql.png
+
+PATH INFO
+dirname: images
+basename: php7.png
+extension: png
+filename: php7
+size:91739
+data de modificação: Monday, 17-Apr-23 15:57:39 CEST
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/php7.png
+
+PATH INFO
+dirname: images
+basename: 130cm.png
+extension: png
+filename: 130cm
+size:38784
+data de modificação: Wednesday, 12-Apr-23 14:04:23 CEST
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/130cm.png
+
+PATH INFO
+dirname: images
+basename: Logo1.jpg
+extension: jpg
+filename: Logo1
+size:14088
+data de modificação: Friday, 24-Mar-23 20:24:38 CET
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/Logo1.jpg
+
+PATH INFO
+dirname: images
+basename: Logo2.jpg
+extension: jpg
+filename: Logo2
+size:13962
+data de modificação: Friday, 24-Mar-23 21:21:17 CET
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/Logo2.jpg
+
+PATH INFO
+dirname: images
+basename: html5.png
+extension: png
+filename: html5
+size:32796
+data de modificação: Monday, 17-Apr-23 15:57:37 CEST
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/html5.png
+
+PATH INFO
+dirname: images
+basename: mysql.png
+extension: png
+filename: mysql
+size:201238
+data de modificação: Monday, 17-Apr-23 15:57:40 CEST
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/mysql.png
+
+PATH INFO
+dirname: images
+basename: php7.png
+extension: png
+filename: php7
+size:91739
+data de modificação: Monday, 17-Apr-23 15:57:39 CEST
+url do arquivo: http://localhost/php_learning/013-Manipulando%20arquivos/images/php7.png
+
+
