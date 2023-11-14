@@ -12,7 +12,7 @@
 </ul>
 
 
-## Programas Ultilizados
+## Programas Ultilizados para Dev
 <ul>
         <li>
             <a href="https://code.visualstudio.com">Visual Studio Code</a>
